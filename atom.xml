@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-06-15T10:10:17.810Z</updated>
+  <updated>2021-06-17T03:55:16.928Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,22 +17,54 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hi Hi</title>
-    <link href="http://yoursite.com/2021/06/14/hello-world/"/>
-    <id>http://yoursite.com/2021/06/14/hello-world/</id>
-    <published>2021-06-14T10:49:35.576Z</published>
-    <updated>2021-06-15T10:10:17.810Z</updated>
+    <title>德格</title>
+    <link href="http://yoursite.com/2021/06/17/dege/"/>
+    <id>http://yoursite.com/2021/06/17/dege/</id>
+    <published>2021-06-17T03:25:45.000Z</published>
+    <updated>2021-06-17T03:55:16.928Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="德格"><a href="#德格" class="headerlink" title="德格"></a>德格</h2><p>五月德格好美</p><p><img src="https://cdn.jsdelivr.net/gh/justcallmeseven/hexoservice/images/dege.jpg" alt="五月的德格"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h2 id=&quot;德格&quot;&gt;&lt;a href=&quot;#德格&quot; class=&quot;headerlink&quot; title=&quot;德格&quot;&gt;&lt;/a&gt;德格&lt;/h2&gt;&lt;p&gt;五月德格好美&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/justcallmeseven/he</summary>
       
     
     
     
+    <category term="Trip" scheme="http://yoursite.com/categories/Trip/"/>
+    
+    
+    <category term="Trip" scheme="http://yoursite.com/tags/Trip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>something about hexo</title>
+    <link href="http://yoursite.com/2021/06/16/something-hexo/"/>
+    <id>http://yoursite.com/2021/06/16/something-hexo/</id>
+    <published>2021-06-16T14:04:36.000Z</published>
+    <updated>2021-06-17T04:01:53.321Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Hexo设置"><a href="#Hexo设置" class="headerlink" title="Hexo设置"></a>Hexo设置</h2><ul><li><p>安装 Hexo 需要先安装下列应用程序</p><ol><li>Node.js </li><li>Git</li></ol></li><li><p>npm install -g hexo-cli</p></li><li><p>在空文件下执行初始化<br>hexo init</p><p>或者</p><p>hexo init myblog</p></li><li><p>npm install</p></li><li><p>hexo g           //生成/public文件夹，里面是网站/生成静态文件</p></li><li><p>hexo s</p><p>INFO  Start processing<br>INFO  Hexo is running at <a href="http://localhost:4000/">http://localhost:4000</a> . Press Ctrl+C to stop.</p><p>开始Show</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Hexo设置&quot;&gt;&lt;a href=&quot;#Hexo设置&quot; class=&quot;headerlink&quot; title=&quot;Hexo设置&quot;&gt;&lt;/a&gt;Hexo设置&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;安装 Hexo 需要先安装下列应用程序&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Node.js &lt;/li</summary>
+      
+    
+    
+    
+    <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
     
   </entry>
   
