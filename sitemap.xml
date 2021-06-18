@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2021/06/17/dege/</loc>
+    <loc>https://justcallmeseven.github.io/2021/06/16/something-hexo/</loc>
+    
+    <lastmod>2021-06-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://justcallmeseven.github.io/2021/06/17/dege/</loc>
     
     <lastmod>2021-06-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2021/06/16/something-hexo/</loc>
-    
-    <lastmod>2021-06-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>https://justcallmeseven.github.io/about/index.html</loc>
     
     <lastmod>2021-06-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/link/index.html</loc>
+    <loc>https://justcallmeseven.github.io/link/index.html</loc>
     
     <lastmod>2021-06-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>https://justcallmeseven.github.io/categories/index.html</loc>
     
     <lastmod>2021-06-14</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>https://justcallmeseven.github.io/tags/index.html</loc>
     
     <lastmod>2021-06-14</lastmod>
     
@@ -45,23 +45,23 @@
   
 
   <url>
-    <loc>http://yoursite.com/</loc>
-    <lastmod>2021-06-17</lastmod>
+    <loc>https://justcallmeseven.github.io/</loc>
+    <lastmod>2021-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://yoursite.com/tags/Trip/</loc>
-    <lastmod>2021-06-17</lastmod>
+    <loc>https://justcallmeseven.github.io/tags/Trip/</loc>
+    <lastmod>2021-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/Hexo/</loc>
-    <lastmod>2021-06-17</lastmod>
+    <loc>https://justcallmeseven.github.io/tags/Hexo/</loc>
+    <lastmod>2021-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -69,15 +69,15 @@
 
   
   <url>
-    <loc>http://yoursite.com/categories/Trip/</loc>
-    <lastmod>2021-06-17</lastmod>
+    <loc>https://justcallmeseven.github.io/categories/Trip/</loc>
+    <lastmod>2021-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/Hexo/</loc>
-    <lastmod>2021-06-17</lastmod>
+    <loc>https://justcallmeseven.github.io/categories/Hexo/</loc>
+    <lastmod>2021-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
