@@ -1,4 +1,4 @@
-# 简的博客
+## 简的博客
 基于HEXO搭建---https://justcallmeseven.github.io
 
 ##  HEXO设置
@@ -78,10 +78,10 @@
   
   1. 在博客根目录下打开git bash，分别执行下面的命令：
   
-  ```yaml
-  git config --global user.name "yourname"
-  git config --global user.email "youremail"
-  ```
+     ```yaml
+     git config --global user.name "yourname"
+     git config --global user.email "youremail"
+     ```
   
   2. 创建一个git秘钥
      打开git bash（哪里打开无所谓），执行
